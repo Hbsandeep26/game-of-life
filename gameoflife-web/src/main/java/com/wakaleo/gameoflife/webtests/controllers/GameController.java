@@ -18,6 +18,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  * GameController.java
  * Controller to navigate the buttons on the game pages
  * new line for jenkins maven integration test
+ *another github edit to test merge conflicts
  */
 @Controller
 @RequestMapping("/game")
